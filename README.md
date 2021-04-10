@@ -62,6 +62,7 @@ Brush Up your linux skills here with most of the basic commands that all you wil
 ### All linux OS are open source and freely available
 **touch filename**
 **vi filename**
+
 **insert text into it using**
 
 
